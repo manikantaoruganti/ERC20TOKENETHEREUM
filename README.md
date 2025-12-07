@@ -101,4 +101,4 @@ Compile with Solidity 0.8.x
 Deploy with initial supply (e.g., 1000000000000000000000000 for 1M tokens)
 Start testing transfers, approvals, and allowances
 the token is now ready to deploy and test. The README provides comprehensive guidance for every step from compilation to advanced testing scenarios.
-
+W2B
